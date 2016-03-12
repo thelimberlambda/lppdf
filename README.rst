@@ -1,6 +1,8 @@
 (L)ine(P)rint PDF (lppdf)
 =========================
+
 ::
+
    Copyright (C) 2016 Eric W Smith
    
    This program is free software: you can redistribute it and/or modify it under
@@ -38,10 +40,14 @@ Installation
 Invocation
 ----------
 
+::
+
   python lpppdf.py <options> <text-file>
 
 Help
 ----
+
+::
 
   python lppdf.py --help
 
@@ -60,16 +66,14 @@ installed:
 
 To run all tests:
 
+::
+
   ./make test
 
 or...
 
+::
+
   make test
 
 for Windows.
-
-Gitlog
-------
-
-A git log is contained in `./gitlog` and is a useful means of gaining insight
-into changes rolled into this version.
