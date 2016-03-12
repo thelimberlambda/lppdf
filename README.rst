@@ -33,7 +33,7 @@ Installation
 3. Ensure that Ghostscript is installed;
 4. Ensure that the path to `gs`/`gswin32c` (Ghostscript command-line tool)
    is set up properly;
-5. Ensure that Imagemagick is installed;
+5. Ensure that ImageMagick is installed;
 6. Confirm that paths to Imagemagick tools are correctly set up by openging a
    console/command prompt and issuing the `identify` and `compare` commands.
 
