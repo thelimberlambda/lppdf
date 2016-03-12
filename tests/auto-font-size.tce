@@ -1,0 +1,2 @@
+Description: Automatic font-sizing for long lines
+Args: --columns=170 --auto-font-size

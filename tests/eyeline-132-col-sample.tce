@@ -1,0 +1,2 @@
+Description: Typical eyeline report (132 columns)
+Args: --auto-font-size --landscape --columns=132
