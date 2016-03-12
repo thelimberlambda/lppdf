@@ -18,10 +18,10 @@
    You should have received a copy of the GNU General Public License along with
    this program.  If not, see <http://www.gnu.org/licenses/>.
    
-   lppdf is a Python-based utility designed to "line print" text files to PDF
-   format, in particular, files in old "eyeline" format (that is, 132 column and 60
-   lines, with embedded carriage-return (\x0d), line-feed (\x0a) and form-feed
-   (\x0c) ASCII control characters).
+lppdf is a Python-based utility designed to "line print" text files to PDF
+format, in particular, files in old "eyeline" format (that is, 132 column and 60
+lines, with embedded carriage-return (\x0d), line-feed (\x0a) and form-feed
+(\x0c) ASCII control characters).
 
 Installation
 ------------
