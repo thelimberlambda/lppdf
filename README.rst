@@ -42,7 +42,7 @@ Invocation
 
 ::
 
-  python lpppdf.py <options> <text-file>
+  python lppdf.py <options> <text-file>
 
 Help
 ----
